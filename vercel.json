@@ -1,5 +1,7 @@
 {
-  "routes": [
+  "redirects": [
+],
+  "rewrites": [
     {
       "source": "(/.*)",
       "destination": "https://flexidomain.in/$1"
