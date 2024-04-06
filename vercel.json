@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/",       "destination": "/privacy-policy",       "permanent": true     }
+  "redirects": [
 ],
   "rewrites": [
     {
