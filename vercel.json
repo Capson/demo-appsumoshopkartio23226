@@ -1,8 +1,11 @@
 {
-  "routes": [
+  "redirects": [
+],
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://flexidomain.in/$1"
- }
+      "source": "(/.*)",
+      "destination": "https://flexidomain.in/$1"
+    }
   ]
 }
+    
